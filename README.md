@@ -11,6 +11,8 @@ Fronter est un bot Discord conçu pour les systèmes pluriels.   Il permet à ch
 ### :sparkles: Nouveautés
 - Vérifications des permissions — à chaque fois que vous ferez /panel, le bot checkera si il a toute les permissions; si il en manque une il vous répondra à la commande ou bien par MP.
 
+![Exemples](https://media.discordapp.net/attachments/1527694678236069978/1531189453144723496/image.png?ex=6a684ecd&is=6a66fd4d&hm=7e5247c1d30ce8b67536cfe8af6c535b09ac91459da6f19f39580b9ebc205ce4&=&format=webp&quality=lossless)
+
 ## 🔧 Version 1.1 — Synchronisation multi-panels
 *22 juillet 2026*
 
