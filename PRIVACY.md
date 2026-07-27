@@ -54,7 +54,7 @@ Vos données ne sont **jamais** :
 
 ## 4. Stockage des données
 
-Vos données sont stockées sur un serveur privé hébergé en France (Mon Raspberry PI 3B+). Chaque utilisateur dispose de son propre espace de stockage isolé, accessible uniquement par le bot.
+Vos données sont stockées sur un serveur privé hébergé en France (Un Raspberry PI 3B+). Chaque utilisateur dispose de son propre espace de stockage isolé, accessible uniquement par le bot.
 
 Les images envoyées sont téléchargées et stockées localement sur ce serveur.
 
