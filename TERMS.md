@@ -35,7 +35,7 @@ Fronter collecte et stocke les données suivantes :
 - Les informations que vous renseignez volontairement (nom des alters, champs personnalisés, images)
 - Le nombre de switchs effectués
 
-Ces données sont stockées sur un serveur privé et ne sont jamais vendues ni partagées avec des tiers.
+Ces données sont stockées sur un serveur privé (Un Raspberry PI 3B+) et ne sont jamais vendues ni partagées avec des tiers.
 
 ---
 
@@ -47,7 +47,7 @@ Vous pouvez supprimer l'intégralité de vos données à tout moment en utilisan
 
 ## 6. Disponibilité du service
 
-Fronter est hébergé sur une infrastructure personnelle. Nous ne garantissons pas une disponibilité continue du service. Des interruptions peuvent survenir pour maintenance ou en cas de problème technique.
+Fronter est hébergé sur une infrastructure personnelle (Un Raspberry PI 3B+). Nous ne garantissons pas une disponibilité continue du service. Des interruptions peuvent survenir pour maintenance ou en cas de problème technique.
 
 ---
 
