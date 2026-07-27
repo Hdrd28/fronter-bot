@@ -15,6 +15,16 @@ Support : https://discord.gg/uawMaxCAq
 
 ![Exemples](https://media.discordapp.net/attachments/1527694678236069978/1531189453144723496/image.png?ex=6a684ecd&is=6a66fd4d&hm=7e5247c1d30ce8b67536cfe8af6c535b09ac91459da6f19f39580b9ebc205ce4&=&format=webp&quality=lossless)
 
+### :gear: Changements techniques
+- **Migration vers SQLite** — les données sont désormais stockées dans une base de données SQLite (`fronter.db`) au lieu de fichiers JSON individuels par utilisateur
+- **Meilleure stabilité** — les lectures et écritures sont maintenant atomiques, éliminant les risques de corruption de données en cas d'utilisateurs simultanés
+- **Meilleures performances** — les accès aux données sont significativement plus rapides, notamment avec un grand nombre d'utilisateurs
+
+### :lock: Ce qui ne change pas
+- Toutes vos données ont été migrées automatiquement, rien n'a été perdu
+- Les images de vos alters sont conservées à leur emplacement habituel
+- Le fonctionnement du bot reste exactement identique
+
 ## 🔧 Version 1.1 — Synchronisation multi-panels
 *22 juillet 2026*
 
