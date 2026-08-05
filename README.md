@@ -6,6 +6,17 @@ Support : https://discord.gg/uawMaxCAq
 # 📋 Changelog — Fronter
 
 ---
+## :wrench: Version 1.2.1 — Améliorations diverses
+*5 août 2026*
+
+### :sparkles: Nouveautés
+- **Renommer le système** — nouvelle option dans `/champs` pour modifier le nom de ton système à tout moment, avec mise à jour automatique de tous les panneaux
+- **Nouvelles commandes slash** (existant depuis un moment mais jamais expliquer) — `/switch`, `/switchout`, `/inscription`, `/editer`, `/supprimer` permettent d'utiliser toutes les fonctions du bot sans passer par le panneau
+
+### :wrench: Améliorations
+- **Menu `/champs` persistant** — le menu reste ouvert jusqu'à ce que tu cliques sur :white_check_mark: Terminer, plus besoin de relancer la commande à chaque modification
+- **Nettoyage automatique** — le message "Gestion de tes champs..." disparaît automatiquement une fois la session terminée
+---
 
 ## 🔧 Version 1.2 — Vérifications des permissions
 *27 juillet 2026*
