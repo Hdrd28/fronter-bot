@@ -6,6 +6,12 @@ Support : https://discord.gg/uawMaxCAq
 # 📋 Changelog — Fronter
 
 ---
+## 🔧 Version 1.2.3 — Personnalisation du panneau
+*7 août 2026*
+### ✨ Nouveautés
+- **Masquer/Afficher les infos** — nouveau bouton sur le panneau pour masquer ou afficher le message d'introduction et le guide des commandes. Pratique pour garder un panneau épuré une fois que vous connaissez le bot !
+
+---
 
 ## 🔧 Version 1.2.2 — Temps au front
 *7 août 2026*
