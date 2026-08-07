@@ -6,6 +6,17 @@ Support : https://discord.gg/uawMaxCAq
 # 📋 Changelog — Fronter
 
 ---
+
+## 🔧 Version 1.2.2 — Temps au front
+*7 août 2026*
+
+### ✨ Nouveautés
+- **Calcul du temps au front** — à chaque switch ou switch out, le bot analyse combien de temps l'alter précédent était au front. Il enverra un petit message, pour dire le temps du front et fera un cumul pour son prochain switch afin de l'indiquer
+- **Temps total cumulé** — le panneau affiche désormais le temps total qu'un alter a passé au front sur l'ensemble de ses switchs
+- **Affichage dynamique** — le temps s'adapte automatiquement selon la durée : secondes, minutes, heures, jours, semaines, mois ou années
+
+---
+
 ## :wrench: Version 1.2.1 — Améliorations diverses
 *5 août 2026*
 
